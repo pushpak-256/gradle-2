@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.abc.bean.calculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-06T07:07:10" hostname="OP" time="0.042">
+  <properties/>
+  <testcase name="testAddition()" classname="com.abc.bean.calculatorTest" time="0.042"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
